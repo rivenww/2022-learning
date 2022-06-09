@@ -5,6 +5,7 @@
 ## Tour of Heroes
 
 * [Sample project](tour-of-heroes/sample-project.md)
+* [New Module](tour-of-heroes/new-module.md)
 
 ## DynamoDB
 
