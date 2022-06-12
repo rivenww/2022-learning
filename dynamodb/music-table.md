@@ -20,7 +20,7 @@ Though we have already created table, we still cannot access the DynamoDB direct
 
 Use IAM (in AWS console) to create a new group with the access to DB(AmazonDynamoDBFullAccess), and add a user into the group. Copy the keys to the method and annotate with @Bean then we can get a instantiated DynamoDBMapper in runtime.
 
-P.S. It's better to store the keys in configuration file, not hardcore.
+P.S. It's better to store the keys in configuration file, not hard code.
 
 ```
     @Bean

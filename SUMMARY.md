@@ -10,5 +10,5 @@
 ## DynamoDB
 
 * [DynamoDB and NoSQL](dynamodb/dynamodb-and-nosql.md)
-* [Springboot Integrates  DynamoDB](dynamodb/springboot-integrates-dynamodb.md)
+* [Springboot Integrates  DynamoDB](dynamodb/music-table.md)
 * [Unresolved Issues](dynamodb/unresolved-issues.md)
